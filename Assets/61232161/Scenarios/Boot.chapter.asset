@@ -54,7 +54,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - 
       - j1.png
       - 
@@ -74,7 +74,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - 
       - j2.png
       - 
@@ -94,7 +94,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - 
       - j3.png
       - 
@@ -114,7 +114,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - 
       - j4.png
       - 
@@ -134,7 +134,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - 
       - j5.png
       - 
@@ -154,7 +154,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - 
       - j6.png
       - 
@@ -174,7 +174,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - 
       - j7.png
       isEmpty: 0
@@ -190,7 +190,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - 
       - j8.png
       isEmpty: 0
@@ -206,7 +206,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - 
       - j9.png
       isEmpty: 0
@@ -222,7 +222,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - 
       - j10.png
       isEmpty: 0
@@ -250,11 +250,11 @@ MonoBehaviour:
       - "\u591A\u591A"
       - 
       - "\u559C"
+      - -75
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - 
       - d1.png
       isEmpty: 0
@@ -266,11 +266,11 @@ MonoBehaviour:
       - "\u591A\u591A"
       - 
       - "\u6012"
+      - -75
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - 
       - d2.png
       isEmpty: 0
@@ -282,11 +282,11 @@ MonoBehaviour:
       - "\u591A\u591A"
       - 
       - "\u54C0"
+      - -75
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - 
       - d3.png
       isEmpty: 0
@@ -298,11 +298,11 @@ MonoBehaviour:
       - "\u591A\u591A"
       - 
       - "\u6A02"
+      - -75
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - 
       - d4.png
       isEmpty: 0
@@ -314,11 +314,11 @@ MonoBehaviour:
       - "\u591A\u591A"
       - 
       - "\u6B63\u9762"
+      - -75
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - 
       - d5.png
       isEmpty: 0
@@ -330,11 +330,11 @@ MonoBehaviour:
       - "\u591A\u591A"
       - 
       - "\u80CC\u9762"
+      - -75
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - 
       - d6.png
       isEmpty: 0
@@ -346,11 +346,11 @@ MonoBehaviour:
       - "\u591A\u591A"
       - 
       - "\u795E\u6C23"
+      - -75
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - 
       - d7.png
       - 
@@ -366,11 +366,11 @@ MonoBehaviour:
       - "\u591A\u591A"
       - 
       - "\u6025"
+      - -75
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - 
       - d8.png
       isEmpty: 0
@@ -382,11 +382,11 @@ MonoBehaviour:
       - "\u591A\u591A"
       - 
       - "\u554F\u865F"
+      - -75
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - 
       - d9.png
       isEmpty: 0
@@ -398,11 +398,11 @@ MonoBehaviour:
       - "\u591A\u591A"
       - 
       - "\u8B1D\u8B1D"
+      - -75
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - 
       - d10.png
       isEmpty: 0
@@ -414,11 +414,11 @@ MonoBehaviour:
       - "\u591A\u591A"
       - 
       - "\u4E0D\u597D\u610F\u601D"
+      - -75
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - 
       - d11.png
       isEmpty: 0
@@ -450,7 +450,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - 1.2
       - 
       - f1.png
       isEmpty: 0
@@ -466,7 +466,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - 1.2
       - 
       - f3.png
       isEmpty: 0
@@ -500,7 +500,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - t1
+      - t1.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -516,7 +516,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - t3
+      - t3.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -532,7 +532,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - t9
+      - t9.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -548,7 +548,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - t12
+      - t12.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -578,9 +578,9 @@ MonoBehaviour:
       - 
       - 
       - 
+      - .9
       - 
-      - 
-      - k2
+      - k2.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -612,7 +612,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - m1
+      - m1.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -628,7 +628,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - m4
+      - m4.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -660,7 +660,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - s1
+      - s1.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -676,7 +676,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - s3
+      - s3.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -692,13 +692,13 @@ MonoBehaviour:
       - 
       - 
       - 
-      - s4
+      - s4.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     name: Assets/61232161/Scenarios/61232161.xls:Character
     type: 1
-    textLength: 469
+    textLength: 592
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 88d978edfff83a2478eb9052084dc8dc, type: 3}
   - rows:
