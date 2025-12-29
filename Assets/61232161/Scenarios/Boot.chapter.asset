@@ -654,11 +654,11 @@ MonoBehaviour:
       - "\u597D\u53CB2(\u677E)"
       - 
       - "\u559C"
+      - -100
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - 
       - s1.png
       isEmpty: 0
@@ -670,11 +670,11 @@ MonoBehaviour:
       - "\u597D\u53CB2(\u677E)"
       - 
       - "\u54C0"
+      - -100
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - 
       - s3.png
       isEmpty: 0
@@ -686,11 +686,11 @@ MonoBehaviour:
       - "\u597D\u53CB2(\u677E)"
       - 
       - "\u6A02"
+      - -100
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - 
       - s4.png
       isEmpty: 0
@@ -698,7 +698,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232161/Scenarios/61232161.xls:Character
     type: 1
-    textLength: 592
+    textLength: 610
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 88d978edfff83a2478eb9052084dc8dc, type: 3}
   - rows:

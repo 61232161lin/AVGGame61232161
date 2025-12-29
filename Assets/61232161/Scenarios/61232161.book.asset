@@ -1104,7 +1104,7 @@ MonoBehaviour:
       - 
       - "\u829D\u9EBB"
       - "\u795E\u6C23"
-      - "\u4E2D\u5F8C"
+      - "\u53F3\u5F8C"
       - 
       - 
       - 
@@ -1123,7 +1123,7 @@ MonoBehaviour:
       - 
       - "\u829D\u9EBB"
       - "\u559C"
-      - "\u4E2D"
+      - "\u53F3\u5F8C"
       - 
       - 
       - 
@@ -2126,7 +2126,7 @@ MonoBehaviour:
       - 
       - "\u8ABF\u76AE\u9F20"
       - "\u554F\u865F"
-      - "\u4E2D"
+      - "\u53F3"
       - 
       - 
       - 
@@ -2164,7 +2164,7 @@ MonoBehaviour:
       - 
       - "\u8ABF\u76AE\u9F20"
       - "\u559C"
-      - "\u4E2D"
+      - "\u53F3"
       - 
       - 
       - 
@@ -2545,7 +2545,7 @@ MonoBehaviour:
       - 
       - "\u597D\u53CB2(\u677E)"
       - "\u6A02"
-      - "\u4E2D"
+      - "\u53F3"
       - 
       - 
       - 
@@ -2564,7 +2564,7 @@ MonoBehaviour:
       - 
       - "\u597D\u53CB2(\u677E)"
       - "\u6A02"
-      - "\u4E2D"
+      - "\u53F3"
       - 
       - 
       - 
@@ -2583,7 +2583,7 @@ MonoBehaviour:
       - 
       - "\u591A\u591A"
       - "\u8B1D\u8B1D"
-      - "\u53F3"
+      - "\u5DE6"
       - 
       - 
       - 
@@ -3230,7 +3230,7 @@ MonoBehaviour:
       - 
       - "\u8ABF\u76AE\u9F20"
       - "\u559C"
-      - "\u4E2D\u5F8C"
+      - "\u5DE6\u5F8C"
       - 
       - 
       - 
@@ -4937,7 +4937,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232161/Scenarios/61232161.xls:Start
     type: 1
-    textLength: 3515
+    textLength: 3516
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 88d978edfff83a2478eb9052084dc8dc, type: 3}
     entityIndexTbl: 
@@ -5581,11 +5581,11 @@ MonoBehaviour:
       - "\u597D\u53CB2(\u677E)"
       - 
       - "\u559C"
+      - -100
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - 
       - s1.png
       isEmpty: 0
@@ -5597,11 +5597,11 @@ MonoBehaviour:
       - "\u597D\u53CB2(\u677E)"
       - 
       - "\u54C0"
+      - -100
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - 
       - s3.png
       isEmpty: 0
@@ -5613,11 +5613,11 @@ MonoBehaviour:
       - "\u597D\u53CB2(\u677E)"
       - 
       - "\u6A02"
+      - -100
       - 
       - 
       - 
-      - 
-      - 
+      - .8
       - 
       - s4.png
       isEmpty: 0
@@ -5625,7 +5625,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232161/Scenarios/61232161.xls:Character
     type: 1
-    textLength: 592
+    textLength: 610
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 88d978edfff83a2478eb9052084dc8dc, type: 3}
   - rows:
@@ -7474,7 +7474,7 @@ MonoBehaviour:
       - 
       - "\u829D\u9EBB"
       - "\u795E\u6C23"
-      - "\u4E2D\u5F8C"
+      - "\u53F3\u5F8C"
       - 
       - 
       - 
@@ -7493,7 +7493,7 @@ MonoBehaviour:
       - 
       - "\u829D\u9EBB"
       - "\u559C"
-      - "\u4E2D"
+      - "\u53F3\u5F8C"
       - 
       - 
       - 
@@ -8496,7 +8496,7 @@ MonoBehaviour:
       - 
       - "\u8ABF\u76AE\u9F20"
       - "\u554F\u865F"
-      - "\u4E2D"
+      - "\u53F3"
       - 
       - 
       - 
@@ -8534,7 +8534,7 @@ MonoBehaviour:
       - 
       - "\u8ABF\u76AE\u9F20"
       - "\u559C"
-      - "\u4E2D"
+      - "\u53F3"
       - 
       - 
       - 
@@ -8915,7 +8915,7 @@ MonoBehaviour:
       - 
       - "\u597D\u53CB2(\u677E)"
       - "\u6A02"
-      - "\u4E2D"
+      - "\u53F3"
       - 
       - 
       - 
@@ -8934,7 +8934,7 @@ MonoBehaviour:
       - 
       - "\u597D\u53CB2(\u677E)"
       - "\u6A02"
-      - "\u4E2D"
+      - "\u53F3"
       - 
       - 
       - 
@@ -8953,7 +8953,7 @@ MonoBehaviour:
       - 
       - "\u591A\u591A"
       - "\u8B1D\u8B1D"
-      - "\u53F3"
+      - "\u5DE6"
       - 
       - 
       - 
@@ -9600,7 +9600,7 @@ MonoBehaviour:
       - 
       - "\u8ABF\u76AE\u9F20"
       - "\u559C"
-      - "\u4E2D\u5F8C"
+      - "\u5DE6\u5F8C"
       - 
       - 
       - 
@@ -11307,6 +11307,6 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232161/Scenarios/61232161.xls:Start
     type: 1
-    textLength: 3515
+    textLength: 3516
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 88d978edfff83a2478eb9052084dc8dc, type: 3}
