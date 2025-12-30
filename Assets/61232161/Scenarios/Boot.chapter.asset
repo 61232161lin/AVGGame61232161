@@ -54,7 +54,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .7
       - 
       - j1.png
       - 
@@ -74,7 +74,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .7
       - 
       - j2.png
       - 
@@ -94,7 +94,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .7
       - 
       - j3.png
       - 
@@ -114,7 +114,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .7
       - 
       - j4.png
       - 
@@ -134,7 +134,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .7
       - 
       - j5.png
       - 
@@ -154,7 +154,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .7
       - 
       - j6.png
       - 
@@ -174,7 +174,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .7
       - 
       - j7.png
       isEmpty: 0
@@ -190,7 +190,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .7
       - 
       - j8.png
       isEmpty: 0
@@ -206,7 +206,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .7
       - 
       - j9.png
       isEmpty: 0
@@ -222,7 +222,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .7
       - 
       - j10.png
       isEmpty: 0
@@ -254,7 +254,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .6
       - 
       - d1.png
       isEmpty: 0
@@ -270,7 +270,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .6
       - 
       - d2.png
       isEmpty: 0
@@ -286,7 +286,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .6
       - 
       - d3.png
       isEmpty: 0
@@ -302,7 +302,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .6
       - 
       - d4.png
       isEmpty: 0
@@ -318,7 +318,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .6
       - 
       - d5.png
       isEmpty: 0
@@ -334,9 +334,14 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .6
       - 
       - d6.png
+      - 
+      - 
+      - 
+      - 
+      - 
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -350,9 +355,10 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .6
       - 
       - d7.png
+      - 
       - 
       - 
       - 
@@ -370,9 +376,14 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .6
       - 
       - d8.png
+      - 
+      - 
+      - 
+      - 
+      - 
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -386,9 +397,14 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .6
       - 
       - d9.png
+      - 
+      - 
+      - 
+      - 
+      - 
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -402,9 +418,14 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .6
       - 
       - d10.png
+      - 
+      - 
+      - 
+      - 
+      - 
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -418,15 +439,25 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .6
       - 
       - d11.png
+      - 
+      - 
+      - 
+      - 
+      - 
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 23
       debugIndex: 23
       strings:
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
       - 
       - 
@@ -450,9 +481,14 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 1.2
+      - 1.1
       - 
       - f1.png
+      - 
+      - 
+      - 
+      - 
+      - 
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -466,15 +502,25 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 1.2
+      - 1.1
       - 
       - f3.png
+      - 
+      - 
+      - 
+      - 
+      - 
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 26
       debugIndex: 26
       strings:
+      - 
+      - 
+      - 
+      - 
+      - 
       - 
       - 
       - 
@@ -501,6 +547,11 @@ MonoBehaviour:
       - 
       - 
       - t1.png
+      - 
+      - 
+      - 
+      - 
+      - 
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -517,6 +568,11 @@ MonoBehaviour:
       - 
       - 
       - t3.png
+      - 
+      - 
+      - 
+      - 
+      - 
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -533,6 +589,11 @@ MonoBehaviour:
       - 
       - 
       - t9.png
+      - 
+      - 
+      - 
+      - 
+      - 
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -658,7 +719,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .7
       - 
       - s1.png
       isEmpty: 0
@@ -674,7 +735,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .7
       - 
       - s3.png
       isEmpty: 0
@@ -690,7 +751,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .7
       - 
       - s4.png
       isEmpty: 0
@@ -1087,7 +1148,7 @@ MonoBehaviour:
       strings:
       - "\u5DE6"
       - Character
-      - -400
+      - -350
       - 0
       - 200
       isEmpty: 0
@@ -1098,7 +1159,7 @@ MonoBehaviour:
       strings:
       - "\u5DE6\u5F8C"
       - Character
-      - -350
+      - -300
       - 0
       - 180
       isEmpty: 0
@@ -1109,7 +1170,7 @@ MonoBehaviour:
       strings:
       - "\u53F3"
       - Character
-      - 400
+      - 350
       - 0
       - 200
       isEmpty: 0
@@ -1120,7 +1181,7 @@ MonoBehaviour:
       strings:
       - "\u53F3\u5F8C"
       - Character
-      - 350
+      - 300
       - 0
       - 180
       isEmpty: 0
