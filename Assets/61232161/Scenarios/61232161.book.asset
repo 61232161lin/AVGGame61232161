@@ -2145,7 +2145,7 @@ MonoBehaviour:
       - 
       - "\u829D\u9EBB"
       - "\u6012"
-      - "\u5DE6\u5F8C"
+      - "\u5DE6"
       - 
       - 
       - 
@@ -4937,7 +4937,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232161/Scenarios/61232161.xls:Start
     type: 1
-    textLength: 3507
+    textLength: 3506
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 88d978edfff83a2478eb9052084dc8dc, type: 3}
     entityIndexTbl: 
@@ -5471,7 +5471,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - 
       - t1.png
       - 
@@ -5492,7 +5492,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - 
       - t3.png
       - 
@@ -5513,7 +5513,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - 
       - t9.png
       - 
@@ -5534,7 +5534,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .8
       - 
       - t12.png
       isEmpty: 0
@@ -5686,7 +5686,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232161/Scenarios/61232161.xls:Character
     type: 1
-    textLength: 610
+    textLength: 618
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 88d978edfff83a2478eb9052084dc8dc, type: 3}
   - rows:
@@ -6076,7 +6076,7 @@ MonoBehaviour:
       - "\u5DE6"
       - Character
       - -350
-      - 0
+      - -100
       - 200
       isEmpty: 0
       isCommentOut: 0
@@ -6098,7 +6098,7 @@ MonoBehaviour:
       - "\u53F3"
       - Character
       - 350
-      - 0
+      - -100
       - 200
       isEmpty: 0
       isCommentOut: 0
@@ -6138,7 +6138,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232161/Scenarios/61232161.xls:Layer
     type: 1
-    textLength: 212
+    textLength: 218
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 88d978edfff83a2478eb9052084dc8dc, type: 3}
   - rows:
@@ -8576,7 +8576,7 @@ MonoBehaviour:
       - 
       - "\u829D\u9EBB"
       - "\u6012"
-      - "\u5DE6\u5F8C"
+      - "\u5DE6"
       - 
       - 
       - 
@@ -11368,6 +11368,6 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232161/Scenarios/61232161.xls:Start
     type: 1
-    textLength: 3507
+    textLength: 3506
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 88d978edfff83a2478eb9052084dc8dc, type: 3}
